@@ -1,4 +1,4 @@
-Automatic generation of vhost as subdomains for Nginx
+Automatic generation of vhosts with subdomains for Nginx
 ===================
 
 Are you tired of creating a new site-avaible configuration file in your nginx server every time you lanch a new PHP project?
